@@ -1,0 +1,5 @@
+@import url(https://unpkg.com/bootstrap@4.5.0/dist/css/bootstrap.min.css);
+/* @import url("./images/favicon.ico"); */
+@import url("./main/css/vendors_css.css");
+@import url("./main/css/style.css");
+@import url("./main/css/skin_color.css");
